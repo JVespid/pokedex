@@ -1,0 +1,78 @@
+
+
+@keyframes carga{
+    0%{
+        transform: rotate(0deg)
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@keyframes carga2{
+    0%{
+        transform: rotate(360deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+}
+
+
+
+
+
+@keyframes cambioColor {
+    0%{
+        background-color: rgb(123, 229, 255);
+
+    }
+    100%{
+        background-color: rgb(31, 48, 53);
+    }
+}
+
+
+
+
+@keyframes init-animacion-top-bottom {
+
+    0%{
+        height: 45%;
+    }
+    100%{
+        height: 13%;
+    }
+
+}
+@keyframes init-animacion-top {
+
+    0%{
+        
+    }
+    100%{
+        
+    }
+
+}
+@keyframes init-conent {
+
+    0%{
+        height: 10%;
+    }
+    100%{
+        height: 74%;
+    }
+
+
+}
+@keyframes init-animacion-bottom {
+
+    0%{
+        
+    }
+    100%{
+        
+    }
+
+
+}
